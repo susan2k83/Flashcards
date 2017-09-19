@@ -1,10 +1,7 @@
+// main.js will not be used to run the program
 
 var inquirer = require('inquirer');
-// inquirer.prompt([/* Pass your questions in here */]).then(function (answers) {
-//     // Use user feedback for... whatever!!
-// });
 
-// to access  questions.json
 var fs = require("fs");
 
 var questions;
