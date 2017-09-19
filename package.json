@@ -1,0 +1,23 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susan2k83/flashcards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susan2k83/flashcards/issues"
+  },
+  "homepage": "https://github.com/susan2k83/flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "request": "^2.81.0"
+  }
+}
